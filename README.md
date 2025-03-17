@@ -60,13 +60,7 @@ Validation de l’association en renseignant le code PIN et activation en mode �
 
 🔌 Ports utilisés dans l’OXO
 
-5059 : Port standard Alcatel SIP
-
 5060 : Port standard SIP
-
-5061 : Port sécurisé SIP sur TCP
-
-5080 : Port alternatif de configuration SIP
 
 ⏳ Temps d'inscription des appareils
 
