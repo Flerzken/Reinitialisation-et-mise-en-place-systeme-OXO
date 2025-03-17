@@ -1,10 +1,10 @@
-#📞 Projet Système Téléphonique
+# 📞 Projet Système Téléphonique
 
-#📝 Description
+# 📝 Description
 
 Ce projet consiste en l'installation et la configuration d'un système téléphonique utilisant un OXO ainsi que plusieurs types de postes (IP, numériques et DECT). L'objectif est de mettre en place une infrastructure fonctionnelle et d'assurer une communication efficace entre les différents équipements.
 
-#🎯 Objectifs
+# 🎯 Objectifs
 
 🔧 Installer et configurer un serveur OXO
 
@@ -14,7 +14,7 @@ Ce projet consiste en l'installation et la configuration d'un système télépho
 
 🛠️ Assurer une mise à jour et une gestion optimisée du système
 
-#✅ Prérequis
+# ✅ Prérequis
 
 Avant de commencer, il est nécessaire de disposer de :
 
@@ -24,7 +24,7 @@ Avant de commencer, il est nécessaire de disposer de :
 
 🔌 L’ensemble des équipements téléphoniques requis (Poste IP, Poste Numérique, Borne DECT, Poste DECT)
 
-#📌 Déroulement du Projet
+# 📌 Déroulement du Projet
 
 🔄 Réinstallation de l’OXO avec LoLa
 
